@@ -47,7 +47,7 @@ padding: 0 2em;
 }
 
 img{
-width: 100%;
+width: 300px;
 }
 
 .card{
@@ -106,8 +106,6 @@ background-repeat: no-repeat;
 /* background-position: 100%; */
 flex: 1 ;
 transition: all 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
-
-
 }
 
 .galeria div:hover{
@@ -127,3 +125,17 @@ p span{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #a8b909;
 }
+
+h1{
+    color: aliceblue;
+    text-align: center;
+font-family: 'Times New Roman', Times, serif;
+text-transform: uppercase;
+line-height: 3em;
+}
+
+h2{
+    text-align: center;
+}
+
+

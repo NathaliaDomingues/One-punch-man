@@ -2,7 +2,6 @@
 
 ![image](https://github.com/NathaliaDomingues/One-punch-man/assets/146946721/9b555da3-a26c-4127-969d-1e0efc34683d)
 
-
 </h1>
 
 <div align="center">

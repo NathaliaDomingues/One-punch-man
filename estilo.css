@@ -47,7 +47,7 @@ padding: 0 2em;
 }
 
 img{
-width: 300px;
+width: 604px;
 }
 
 .card{
@@ -63,7 +63,7 @@ margin-bottom: 2em;
 }
 
 .card img{
-height: 300px;
+height: 390px;
 }
 
 .card:nth-child(even) img{
@@ -139,3 +139,6 @@ h2{
 }
 
 
+span{
+    color: #a8b909;
+}
